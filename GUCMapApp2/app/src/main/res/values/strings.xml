@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GUC MapApp2</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="spinner_title"> Choose a Map:</string>
+    <string name="choose_place">CHOOSE MAP: </string>
+    <string-array name="places">
+        <item>Click here to select a map</item>
+        <item>C3,Floor 1 </item>
+        <item>C3,Floor 2</item>
+        <item>C3,Floor 3</item>
+    </string-array>
+    <color name="Black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
